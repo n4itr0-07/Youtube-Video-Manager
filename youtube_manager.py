@@ -17,6 +17,7 @@ def save_data_helper(videos):
 def list_all_videos(videos):
     print("\n")
     print("*" * 70)
+    print("\n")
     for index, video in enumerate(videos, start=1):
         print(f"{index}. {video['name']}, Duration: {video['time']} ")
     print("\n")
