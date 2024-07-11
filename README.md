@@ -1,5 +1,5 @@
 # Youtube Video Manager
-Project based on python documentation
+<i>Project based on python documentation</i> 
 
 <hr>
 <div align="left">
